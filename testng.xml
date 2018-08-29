@@ -1,5 +1,5 @@
 
-<suite name="Suite1" verbose="2">
+<suite name="Suite1" verbose="1">
 <test name="test1">
 <classes>
 <class name="NewPackage.NewTests"/>
