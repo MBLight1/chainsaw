@@ -13,7 +13,7 @@ import browserproperties.Browser;
 public class MyClass extends LoadableComponent<MyClass> {
 		
 	//@FindBy(id = "searchbox")
-	//public WebElement find;
+	public WebElement find3;
 	
 	private ObjectMap map;
 		
