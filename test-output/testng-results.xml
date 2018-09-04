@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23941" started-at="2018-08-28T12:51:29Z" finished-at="2018-08-28T12:51:53Z">
+  <suite name="Suite1" duration-ms="21994" started-at="2018-08-30T14:13:47Z" finished-at="2018-08-30T14:14:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23941" started-at="2018-08-28T12:51:29Z" finished-at="2018-08-28T12:51:53Z">
+    <test name="test1" duration-ms="21994" started-at="2018-08-30T14:13:47Z" finished-at="2018-08-30T14:14:09Z">
       <class name="NewPackage.NewTests">
-        <test-method status="PASS" signature="tests(java.lang.String)[pri:0, instance:NewPackage.NewTests@4678c730]" name="tests" duration-ms="23849" started-at="2018-08-28T12:51:29Z" data-provider="create" finished-at="2018-08-28T12:51:53Z">
+        <test-method status="PASS" signature="tests(java.lang.String)[pri:0, instance:NewPackage.NewTests@4678c730]" name="tests" duration-ms="21940" started-at="2018-08-30T14:13:47Z" data-provider="create" finished-at="2018-08-30T14:14:09Z">
           <params>
             <param index="0">
               <value>
@@ -19,6 +19,6 @@
           </reporter-output>
         </test-method> <!-- tests -->
       </class> <!-- NewPackage.NewTests -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
 </testng-results>
